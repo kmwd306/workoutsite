@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Mail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="workout-website" transform="translate(-1173.000000, -1238.000000)">
+            <g id="Group-11" transform="translate(0.000000, 651.000000)">
+                <g id="Group-2" transform="translate(1173.000000, 587.000000)">
+                    <g id="Mail">
+                        <circle id="Oval" fill="#FFFFFF" cx="12.5" cy="12.5" r="12.5"></circle>
+                        <path d="M12.6741667,11.79845 C11.6976667,11.79845 6.66666667,8.9455 6.66666667,8.9455 L6.66666667,8.5 C6.66666667,7.948 7.11466667,7.5 7.66766667,7.5 L17.6806667,7.5 C18.2341667,7.5 18.6821667,7.948 18.6821667,8.5 L18.6741667,9 C18.6741667,9 13.6976667,11.79845 12.6741667,11.79845 Z M12.6741667,13.17345 C13.7446667,13.17345 18.6741667,10.5 18.6741667,10.5 L18.6821667,16.5 C18.6821667,17.052 18.2341667,17.5 17.6806667,17.5 L7.66766667,17.5 C7.11516667,17.5 6.66666667,17.052 6.66666667,16.5 L6.67466667,10.5 C6.67416667,10.5 11.6976667,13.17345 12.6741667,13.17345 Z" id="Shape" fill="#001122"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
